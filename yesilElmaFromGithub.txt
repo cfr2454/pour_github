@@ -2,4 +2,4 @@ add directly from githyb to simulate we don't have our local repo
 
 
 
-doing more work from github and trying pull it down to local repository
+doing more work from git hub and trying pull it down to local repository
