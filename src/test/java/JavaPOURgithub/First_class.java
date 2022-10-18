@@ -6,5 +6,9 @@ public class First_class {
         System.out.println("Git hub is a unique tool for collaboration");
         System.out.println("New features of the application must be learned");
         System.out.println("the last sentence");
+
+        //WORK 1
+
+
     }
 }
